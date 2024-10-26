@@ -1,0 +1,32 @@
+[
+    {
+        "username": "dsd",
+        "password": "hola",
+        "name": "3",
+        "lastName": "3"
+    },
+    {
+        "username": "a",
+        "password": "a",
+        "name": "a",
+        "lastName": null
+    },
+    {
+        "username": "isabellaOtero29",
+        "password": "isabellaotero",
+        "name": "david",
+        "lastName": "123"
+    },
+    {
+        "username": "isabellaOtero29",
+        "password": "32",
+        "name": "david",
+        "lastName": "123"
+    },
+    {
+        "username": "hol",
+        "password": "hol",
+        "name": "hol",
+        "lastName": "hol"
+    }
+]
